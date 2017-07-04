@@ -1,4 +1,4 @@
-# Airbnb linearregression 
+# Airbnb linear regression 
 
 [DSS5] Teamproject No.2
 We will do Airbnb linearregression based on tomslee's airbnb booking data.
