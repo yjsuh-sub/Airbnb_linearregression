@@ -1,15 +1,19 @@
 # Airbnb linear regression 
 
 [DSS5] Teamproject No.2
-We will do Airbnb linearregression based on tomslee's airbnb booking data.
 
-describe about data set below
-[Will be here]
+We will do Airbnb booking price model linear regression based on tomslee's airbnb accommodates data.
+We checkd room_id columns and planed using this data for clawing data from airbnb homepage.
 
-origine data from 
+Can check how to deal with origine data and clawed data and merge code and pandas dataframe code in merge data file.
+
+origine data from
 http://tomslee.net/airbnb-data-collection-get-the-data
 
-drop columns and city index data form
-data_url in this project shared by google drive
+final data is 
+airbnb_final.csv
 
-Now just finished makeing pandas data frame
+1st truble shooting is finished 12th July, 2017
+Update presentation file written in Korean
+
+airbnb_presentation.ipynb
