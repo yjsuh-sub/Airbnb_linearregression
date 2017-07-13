@@ -5,7 +5,7 @@
 We will do Airbnb booking price model linear regression based on tomslee's airbnb accommodates data.
 We checkd room_id columns and planed using this data for clawing data from airbnb homepage.
 
-Can check how to deal with origine data and clawed data and merge code and pandas dataframe code in merge data file.
+Can check how to deal with origine data and crawled data and merge code and pandas dataframe code in merge data file.
 
 origine data from
 http://tomslee.net/airbnb-data-collection-get-the-data
